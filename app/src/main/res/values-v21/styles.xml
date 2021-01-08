@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DefaultTheme" parent="Theme.AppCompat">
+        <item name="actionBarStyle">@style/DefaultTheme.ActionBar</item>
+        <item name="android:actionBarStyle">@style/DefaultTheme.ActionBar</item>
+        <item name="android:colorPrimary">@color/bar_color</item>
+    </style>
+</resources>

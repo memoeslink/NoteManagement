@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bar_color">#4B68D1</color>
+    <color name="url_color">#7F7FF2</color>
+    <color name="header_color">#445762</color>
+    <color name="light_green">#36CC85</color>
+    <color name="green">#00A859</color>
+    <color name="light_red">#F97A7A</color>
+</resources>

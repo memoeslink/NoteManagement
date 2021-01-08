@@ -1,0 +1,103 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation" tools:locale="es">
+    <string name="about"><![CDATA[<big><b>Note Management</b></big><br><b>Versión: 1.0.6</b><br><br>2014-2018 Memoeslink Futura<br><small>Guillermo Almaguer (memoeslink)</small><br><small>memocad@gmail.com</small><br><br>Aplicación de gestión de notas<br><br><font color=#53E3B3>Imágenes:</font><br><i><font color=#FFFDC4>• Freepik</font></i> [<font color=#99BAD1>Flaticon Basic License</font>] (<cite>http://www.flaticon.com/</cite>)<br><i><font color=#FFFDC4>• iconpack</font></i> [<font color=#B1A5B6>Iconfinder Basic License</font>] (<cite>https://www.iconfinder.com/</cite>)<br><i><font color=#FFFDC4>• Madebyoliver</font></i> [<font color=#99BAD1>Flaticon Basic License</font>] (<cite>http://www.flaticon.com/</cite>)<br><i><font color=#FFFDC4>• Mark James</font></i> [<font color=#B9B0F4>CC BY 2.5</font>] (<cite>https://www.iconfinder.com/</cite>)<br><i><font color=#FFFDC4>• Yusuke Kamiyamane</font></i> [<font color=#B9B0F4>CC BY 3.0</font>] (<cite>https://www.iconfinder.com/</cite>)<br><br><font color=#53E3B3>Tema:</font><br><i><font color=#FDFCDA>Jérôme Van Der Linden: </font><font color=#FFFDC4>Android Holo Colors Generator</font></i> [<font color=#B9B0F4>CC BY 3.0</font>] (<cite>http://android-holo-colors.com/</cite>)<br><br><font color=#53E3B3>Código:</font><br><i><font color=#FDFCDA>• Kumar Bibek: </font><font color=#FFFDC4>Android Multipicker Library</font></i> [<font color=#D0F0B7>Apache License v2.0</font>] (<a href="https://github.com/coomar2841/android-multipicker-library/">https://github.com/</a>)<br><i><font color=#B9BCEE>• Android disable space only for EditText</font></i> [<font color=#FF9BB4>MIT License</font>] (<a href="http://stackoverflow.com/questions/33993041/android-disable-space-only-for-edittext/">http://stackoverflow.com/</a>)<br><i><font color=#B9BCEE>• Determine font color based on background color</font></i> [<font color=#FF9BB4>MIT License</font>] (<a href="http://stackoverflow.com/questions/1855884/determine-font-color-based-on-background-color/">http://stackoverflow.com/</a>)<br><i><font color=#B9BCEE>• Finding the dominant color of an image in an Android @drawable</font></i> [<font color=#FF9BB4>MIT License</font>] (<a href="http://stackoverflow.com/questions/8471236/finding-the-dominant-color-of-an-image-in-an-android-drawable/">http://stackoverflow.com/</a>)<br><i><font color=#B9BCEE>• Gson</font></i> [<font color=#D0F0B7>Apache License v2.0</font>] (<a href="https://github.com/google/gson/">https://github.com/</a>)<br><i><font color=#B9BCEE>• Html.fromHtml deprecated in Android N</font></i> [<font color=#FF9BB4>MIT License</font>] (<a href="http://stackoverflow.com/questions/37904739/html-fromhtml-deprecated-in-android-n/">http://stackoverflow.com/</a>)<br><i><font color=#B9BCEE>• Is it possible to use a String as a seed for an instance Random?</font></i> [<font color=#FF9BB4>MIT License</font>] (<a href="http://stackoverflow.com/questions/23981678/is-it-possible-to-use-a-string-as-a-seed-for-an-instance-random/">http://stackoverflow.com/</a>)<br><i><font color=#B9BCEE>• TextJustify - Android</font></i> [<font color=#D0F0B7>Apache License v2.0</font>] (<a href="https://github.com/bluejamesbond/TextJustify-Android/">https://github.com/</a>)]]></string>
+    <string name="account_enter_email">Introduce un e-mail</string>
+    <string name="account_enter_last_name">Introduce tu(s) apellido(s)</string>
+    <string name="account_enter_name">Introduce tu(s) nombre(s)</string>
+    <string name="account_enter_password">Introduce una contraseña</string>
+    <string name="account_enter_username">Introduce un nombre de usuario</string>
+    <string name="account_is_admin">Es un administrador</string>
+    <string name="account_log_in">¡Ingresa!</string>
+    <string name="account_log_in_description">¿Tienes una cuenta?</string>
+    <string name="account_management_title">Gestionar cuenta</string>
+    <string name="account_other_title">Editar cuenta</string>
+    <string name="account_passwords_match">Las contraseñas coinciden</string>
+    <string name="account_passwords_not_match">Las contraseñas no coinciden</string>
+    <string name="account_remove_image">Eliminar imagen de perfil</string>
+    <string name="account_repeat_password">Repite la contraseña</string>
+    <string name="account_select_image">Elegir imagen de perfil:</string>
+    <string name="account_title">Crear cuenta</string>
+    <string name="action_back">Regresar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_create">Crear</string>
+    <string name="action_create_account">Crear cuenta</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_exit">Salir</string>
+    <string name="action_log_in">Ingresar</string>
+    <string name="action_manage">Gestionar</string>
+    <string name="action_update">Actualizar</string>
+    <string name="alert_about">Acerca de</string>
+    <string name="alert_delete_account">Eliminar cuenta</string>
+    <string name="alert_delete_account_description">¿Quieres eliminar tu cuenta?</string>
+    <string name="alert_delete_other_account_description">¿Deseas eliminar esta cuenta?</string>
+    <string name="alert_exit_app">Abandonar aplicación</string>
+    <string name="alert_exit_app_description">¿Quieres salir de la aplicación?</string>
+    <string name="alert_note">Nota</string>
+    <string name="alert_restart">Reinicio de aplicación</string>
+    <string name="alert_restart_description">La aplicación se reiniciará para que los cambios surtan efecto.</string>
+    <string name="app_name">Note Management</string>
+    <string name="app_preferences">appPrefs</string>
+    <string name="event_wait">Espera un momento, por favor...</string>
+    <string name="field_password">Este campo requiere al menos un número (6 caracteres mín.).</string>
+    <string name="field_title">Este campo puede tener cualquier carácter (1 carácter mín.).</string>
+    <string name="field_username">Este campo puede tener cualquier carácter excepto espacios (4 caracteres mín.).</string>
+    <string name="home_empty_note">¡No hay ninguna nota!</string>
+    <string name="login_create_account">¡Aquí!</string>
+    <string name="login_create_account_description">¿No tienes una cuenta?</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="management_empty_users">¡No hay ningún usuario!</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_exit">Salir</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_log_off">Cerrar sesión</string>
+    <string name="menu_manage_accounts">Gestionar cuentas</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="note_body"><![CDATA[<big><b>%1$s</b></big><br><small>Escrita por: %2$s (%3$s)</small><br><br>%4$s]]></string>
+    <string name="note_edition_title">Editar nota</string>
+    <string name="note_enter_description">Introduce una descripción</string>
+    <string name="note_enter_title">Introduce un título</string>
+    <string name="note_header"><![CDATA[<big><b>%1$s</b></big><br><small>Escrita por: %2$s (%3$s)</small>]]></string>
+    <string name="note_is_public">Esto es privado</string>
+    <string name="note_remove_image">Eliminar imagen</string>
+    <string name="note_select_image">Elegir imagen:</string>
+    <string name="note_title">Crear nota</string>
+    <string name="other_space">\u0020</string>
+    <string name="preference_appearance_title">Apariencia</string>
+    <string name="preference_language_summary">Cambiar el idioma de la aplicación</string>
+    <string name="preference_language_title">Idioma</string>
+    <string name="preference_note_aspect_summary">Reducir el tamaño de presentación de nota</string>
+    <string name="preference_note_aspect_title">Vista compacta</string>
+    <string name="preference_system_title">Sistema</string>
+    <string name="status_error">Error:</string>
+    <string name="status_success">Éxito:</string>
+    <string name="status_unknown">Desconocido:</string>
+    <string name="status_warning">Advertencia:</string>
+    <string name="text_by">Por:\u0020</string>
+    <string name="text_ok">OK</string>
+    <string name="text_unavailable_description">No hay una descripción disponible.</string>
+    <string name="toast_image_size_error">La imagen es mayor a 1MB.</string>
+    <string name="toast_login_error">Nombre de usuario o contraseña incorrectos.</string>
+    <string name="toast_login_fail">El inicio de sesión ha fallado.</string>
+    <string name="toast_login_successful">¡Bienvenido, %1$s!</string>
+    <string name="toast_max_user_limit">El límite de usuarios ha sido alcanzado.</string>
+    <string name="toast_note_deleted">La nota fue eliminada.</string>
+    <string name="toast_note_not_deleted">La nota no pudo ser eliminada.</string>
+    <string name="toast_note_not_saved">La nota no pudo ser guardada.</string>
+    <string name="toast_note_not_updated">La nota no pudo ser actualizada.</string>
+    <string name="toast_note_saved">La nota ha sido guardada.</string>
+    <string name="toast_note_updated">La nota ha sido actualizada.</string>
+    <string name="toast_user_deleted">El usuario fue eliminado.</string>
+    <string name="toast_user_not_deleted">El usuario no pudo ser eliminado.</string>
+    <string name="toast_user_not_saved">El usuario no pudo ser guardado.</string>
+    <string name="toast_user_not_updated">El usuario no pudo ser actualizado.</string>
+    <string name="toast_user_saved">El usuario %1$s ha sido guardado.</string>
+    <string name="toast_user_updated">El usuario %1$s ha sido actualizado.</string>
+    <string name="toast_username_used">El nombre de usuario ya está en uso.</string>
+    <string-array name="language_codes">
+        <item>en</item>
+        <item>es</item>
+    </string-array>
+    <string-array name="languages">
+        <item>Inglés</item>
+        <item>Español</item>
+    </string-array>
+</resources>
